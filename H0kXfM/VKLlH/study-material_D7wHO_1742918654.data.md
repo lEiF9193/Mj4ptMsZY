@@ -1,4 +1,3 @@
-# Contributing
 Please do this.
 
 * Fork it
